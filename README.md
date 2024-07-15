@@ -3,9 +3,10 @@
 ## Node requirement
 ```
 node -v
+```
+```
     v18.15.0
 ```
-
 ## Install nest
 ```
 sudo npm install -g @nestjs/cli
