@@ -1,6 +1,6 @@
 # Nest-Cron
 
-## Node equirement
+## Node requirement
 ```
 node -v
     v18.15.0
