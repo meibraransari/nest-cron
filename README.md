@@ -1,6 +1,6 @@
 # Nest-Cron
 
-This is intend to test nest cron job.
+This is intended to test nestjs cron job.
 
 ## Node requirement
 ```
