@@ -10,7 +10,7 @@ node -v
 v18.15.0
 
 
-## Install nest
+## Install Nest App
 ```
 sudo npm install -g @nestjs/cli
 ```
@@ -19,7 +19,7 @@ sudo npm install -g @nestjs/cli
 nest new nest-cron-app
 ```
 
-## Install Required package
+## Install Required Package
 ```
 cd nest-cron-app
 npm install --save @nestjs/schedule
