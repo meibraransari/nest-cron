@@ -1,3 +1,8 @@
+---
+Created: 2024-07-27T13:57:42+05:30
+Updated: 2024-07-27T13:58:06+05:30
+Maintainer: Ibrar Ansari
+---
 # Nest-Cron
 
 This is intended to test nestjs cron job.
@@ -93,3 +98,12 @@ npm run start
 [Nest] 433815  - 15/07/2024, 12:58:00 pm   DEBUG [CronService] Called at 2024-07-15T07:28:00.005Z
 ```
 
+
+### 💼 Connect with me 👇👇 😊
+
+- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- ✍ [**Blog**](https://ibraransari.blogspot.com/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
+- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
+- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
+- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
